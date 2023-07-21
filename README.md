@@ -12,7 +12,7 @@ Data Science Portfolio
     - Evaluated my model and provided comments to the confusion matrix
 
 
-    [2. Daily Fitbit Activity - Exploratory Data Analysis](Fitbit Daily Activity.ipynb)
+[2. Daily Fitbit Activity - Exploratory Data Analysis](Fitbit Daily Activity.ipynb)
 ## Description
     - Using open source data from Kaggle, this project focuses on finding insights using different visualisations.
     - Applied data processing techniques to ensure data was ready for analysis
