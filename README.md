@@ -10,3 +10,10 @@ Data Science Portfolio
     - Acheived 84% accuracy in identifying high risk patients
     - Provides valuable insights for medical proffesionals
     - Evaluated my model and provided comments to the confusion matrix
+
+
+    [2. Daily Fitbit Activity - Exploratory Data Analysis](Fitbit Daily Activity.ipynb)
+## Description
+    - Using open source data from Kaggle, this project focuses on finding insights using different visualisations.
+    - Applied data processing techniques to ensure data was ready for analysis
+    - Used seaborn library and matplotlib to display bar, scatter, pie and line graphs
