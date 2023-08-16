@@ -1112,6 +1112,9 @@ plt.show()
 
 ![Bar Chart 1](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/DA - Bar chart 1.png)
 
+![Bar Chart 1](https://raw.githubusercontent.com/JonathanSmith11/JSmith_Portfolio/main/path/to/DA - Bar chart 1.png)
+
+
 
 ## Insight:
     - Tuesday to Thursday is the most active period for the fitbit users
