@@ -1109,9 +1109,8 @@ plt.show()
 ```
 
 
-    
-![png](output_15_0.png)
-    
+
+![Bar Chart 1](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/DA - Bar chart 1.png)
 
 
 ## Insight:
@@ -1148,7 +1147,8 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![Scatter 1](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/DA - Scatter Plot 1.png)
+
     
 
 
@@ -1207,7 +1207,7 @@ plt.show()
 
 
     
-![png](output_23_0.png)
+![Pie Chart 1](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/DA - Pie Chart 1.png)
     
 
 
@@ -1637,7 +1637,7 @@ plt.show()
 
 
     
-![png](output_36_0.png)
+![Bar Chart 2](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/DA - Bar chart 2.png)
     
 
 
@@ -1657,7 +1657,7 @@ plt.show()
 
 
     
-![png](output_38_0.png)
+![Bar Chart 3](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/DA - bar chart 3.png)
     
 
 
@@ -1689,7 +1689,7 @@ plt.show()
 
 
     
-![png](output_39_0.png)
+![Bar Chart 4](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/DA - bar chart 4.png)
     
 
 
@@ -2537,7 +2537,7 @@ plt.show()
 
 
     
-![png](output_47_0.png)
+![Line graph](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/DA - Line graph 1.png)
     
 
 
