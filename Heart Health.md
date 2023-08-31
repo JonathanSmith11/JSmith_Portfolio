@@ -619,7 +619,7 @@ plt.show
 
 
 
-![cnf matrix](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/output_25_0.png)
+![cnf matrix](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/output_25_1.png)
 
 ```python
 print(metrics.classification_report(y_test, y_pred))
@@ -855,7 +855,7 @@ plt.show
 
 
 
-![cnf matrix3](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/output_38_0.png)
+![cnf matrix3](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/output_38_1.png)
 
 ```python
 print(metrics.classification_report(y_test, y_pred))\
