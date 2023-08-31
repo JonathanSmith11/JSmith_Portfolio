@@ -669,7 +669,7 @@ plt.show()
 
  
 
-![cnf matrix](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/output_29_0.png)
+![cnf matrix2](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/output_29_0.png)
 
 
 The ROC curve shows the trade-off between sensitivity (or TPR) and specificity (1-FPR). Classifiers that give curves closer to the top-left corner indicate a better performance. As a basline, a random classifier is expected to give points lying along the diagonal (FPR = TPR). The closer the curve comes to the 45-degree diagonal of the ROC space, the less accurate the test. 
@@ -855,7 +855,7 @@ plt.show
 
 
 
-![cnf matrix](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/output_38_0.png)
+![cnf matrix3](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/output_38_0.png)
 
 ```python
 print(metrics.classification_report(y_test, y_pred))\
@@ -903,7 +903,7 @@ plt.show()
 ```
 
 
-![cnf matrix](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/output_42_0.png)
+![cnf matrix4](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/output_42_0.png)
 
 
 This prediction is much more accurate than the first.
