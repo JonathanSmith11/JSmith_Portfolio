@@ -619,8 +619,7 @@ plt.show
 
 
 
-![cnf matrix](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/images/output_25_0.png)
-
+![cnf matrix](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main//output_25_0.png)
 
 ```python
 print(metrics.classification_report(y_test, y_pred))
