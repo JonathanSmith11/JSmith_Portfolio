@@ -386,7 +386,7 @@ plt.show()
 ```
 
 
-![Heatmap](images/output_10_0.png)
+[![Heatmap](images/output_10_0.png)](https://github.com/JonathanSmith11/JSmith_Portfolio/raw/main/output_10_0.png)
 
 
 # Logistic Regresssion
